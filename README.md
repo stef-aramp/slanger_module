@@ -10,7 +10,11 @@ nah mean?
 Instructions:
 just COPY and PASTE slang.py into / lib / python3.6 / site-packages  folder.
 
-open your IDE editor and type: 
-from slang import slanger
+open your IDE editor and type:
 
+```
+
+from slang import slanger
+slanger(‘slang_here’)
+```
 (check example)
