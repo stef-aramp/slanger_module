@@ -12,8 +12,7 @@ just COPY and PASTE slang.py into / lib / python3.6 / site-packages  folder.
 
 open your IDE editor and type:
 
-```
-
+```python
 from slang import slanger
 slanger(‘slang_here’)
 ```
