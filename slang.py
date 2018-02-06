@@ -18,7 +18,7 @@ slang_map = {'broski' : 'brother',
          'lol' : 'laughing out loud',
          'lel' : 'laughing extremely loud',
          'tgif': 'thank god is friday',
-         'sup' : 'what is up',        #
+         'sup' : 'what is up',        
          'wassup' : 'what is up',
          'gotchu' : 'got you',
          'dunno' : 'do not know',
@@ -26,7 +26,7 @@ slang_map = {'broski' : 'brother',
          'gwap' : 'money',
          'fam' : 'family',
          'innit' : 'is not it' ,
-         'coz' : 'because',           #
+         'coz' : 'because',           
          'gal' : 'girl',
          'boi' : 'boy',
          'aight' : 'alright',
@@ -46,19 +46,19 @@ slang_map = {'broski' : 'brother',
          'aka' : 'also known as',
          'lmao' : 'laughing my ass off',
          'rolf' : 'rolling on laughing floor',
-         'yolo' : 'you only live once', #
+         'yolo' : 'you only live once', 
          'yo' : 'your',
          'ya' : 'you',
          'kiddo' : 'kid',
-         'mofo' : 'mother fucker',      #
-         'mofos' : 'mother fuckers',    #
+         'mofo' : 'mother fucker',      
+         'mofos' : 'mother fuckers',    
          'mo' : 'more',
-         'den' : 'then',                #
-         'dem' : 'them',                #
+         'den' : 'then',                
+         'dem' : 'them',                
          'wit' : 'with',
          'gotta' : 'got to',
          'gtg' : 'got to go',
-         'booze' : 'alcohol',           #
+         'booze' : 'alcohol',           
          'nah' : 'no',
          'dm' : 'direct message',
          'imo' : 'in my opinion',
@@ -68,8 +68,8 @@ slang_map = {'broski' : 'brother',
          'luv' : 'love',
          'tha' : 'the',
          'idc' : 'i do not care',
-         'dat' : 'that',                 #
-         'xo' : 'hugs and kisses',       #
+         'dat' : 'that',                 
+         'xo' : 'hugs and kisses',       
          'omm' : 'oh my momma',
          'ish' : 'it is',
          'oml' : 'oh my lord',
@@ -88,7 +88,16 @@ slang_map = {'broski' : 'brother',
          'rt' : 'retweet',
          'hundo p' : '100%',
          '1hunnit' : '100%',
-         '1hunnid' : '100%'
+         '1hunnid' : '100%',
+         'otw' : 'on the way',
+         'foreal' : 'for real',
+         'dayum' : 'damn',
+         'cuz' : 'cousin',
+         'ofc' : 'of course',
+         'wanna' : 'want to',
+         'gonna' : 'going to',
+         'gotta' : 'got to',
+         'dawg' : 'close friend'
          }
 
 import re
