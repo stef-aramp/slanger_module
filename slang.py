@@ -91,13 +91,27 @@ slang_map = {'broski' : 'brother',
          '1hunnid' : '100%',
          'otw' : 'on the way',
          'foreal' : 'for real',
+         'fo' : 'for',
          'dayum' : 'damn',
          'cuz' : 'cousin',
          'ofc' : 'of course',
          'wanna' : 'want to',
          'gonna' : 'going to',
          'gotta' : 'got to',
-         'dawg' : 'close friend'
+         'dawg' : 'close friend',
+         'brb' : 'be right back',
+         'btw' : 'by the way',
+         'dafuq' : 'what the fuck',
+         'og' : 'original',
+         'u' : 'you',
+         'bf' : 'boyfriend',
+         'gf' : 'girlfriend',
+         'w/' : 'with',
+         'atm' : 'at the moment',
+         'ats' : 'all the shit',
+         'shawty' : 'woman',
+         'errbody' : 'everybody',
+         'otf' : 'only the family'
          }
 
 import re
