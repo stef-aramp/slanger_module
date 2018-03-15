@@ -28,6 +28,7 @@ slang_map = {'broski' : 'brother',
          'innit' : 'is not it' ,
          'coz' : 'because',           
          'gal' : 'girl',
+         'gyal' : 'girl',
          'boi' : 'boy',
          'aight' : 'alright',
          'stfu' : 'shut the fuck up',
@@ -111,7 +112,14 @@ slang_map = {'broski' : 'brother',
          'ats' : 'all the shit',
          'shawty' : 'woman',
          'errbody' : 'everybody',
-         'otf' : 'only the family'
+         'otf' : 'only the family',
+         'wth' : 'what the hell',
+         'ftw' : 'for the win',
+         'wth' : 'what the hell',
+         'tbt' : 'throwback Thursday',
+         'tba' : 'to be announced',
+         'tf' : 'the fuck',
+         'hella' : 'really'  
          }
 
 import re
@@ -143,6 +151,7 @@ def slanger(text, mapping = slang_map):
     
     
 # save as pickle(optional)
+"""
 import pickle
 
 with open('slanger_def.pickle', 'wb') as out:
@@ -150,6 +159,6 @@ with open('slanger_def.pickle', 'wb') as out:
  
 with open('slanger_def.pickle', 'rb') as fp:
     slanger = pickle.load(fp)
-
+"""
 
 
