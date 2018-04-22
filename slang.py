@@ -39,6 +39,7 @@ slang_map = {'broski' : 'brother',
          'afk' : 'away from keyboard',
          'bffe' : 'best friends for ever',
          'bff' : 'best friends forever',
+         'thou' : 'thousand',
          'tho' : 'though',
          'wtf' : 'what the fuck',
          'af' : 'as fuck',
@@ -119,7 +120,12 @@ slang_map = {'broski' : 'brother',
          'tbt' : 'throwback Thursday',
          'tba' : 'to be announced',
          'tf' : 'the fuck',
-         'hella' : 'really'  
+         'hella' : 'really',
+         "c'mon" : 'come on',
+         'c' : 'see',
+         'prolly' : 'probably',
+         'fax' : 'facts',
+         'deff' : 'definitely'
          }
 
 import re
