@@ -6,7 +6,9 @@ Created on Tue Jan 30 18:39:22 2018
 @author: stephanosarampatzes
 """
 
-slang_map = {'broski' : 'brother',
+slang_map = {
+         'sorta' : 'sort of',
+         'broski' : 'brother',
          'bruh' : 'brother',
          'brav' : 'brother',
          'bro' : 'brother',
@@ -51,6 +53,7 @@ slang_map = {'broski' : 'brother',
          'yolo' : 'you only live once', 
          'yo' : 'your',
          'ya' : 'you',
+         'yah' : 'you',
          'kiddo' : 'kid',
          'mofo' : 'mother fucker',      
          'mofos' : 'mother fuckers',    
@@ -78,6 +81,7 @@ slang_map = {'broski' : 'brother',
          'icymi' : 'in case you missed it',
          'lil' : 'little',
          'ma' : 'my',
+         'mi' : 'my',
          's/o' : 'shout out',
          'g.o.a.t' : 'greatest of all time',
          'goat' : 'greatest of all time',
@@ -91,6 +95,7 @@ slang_map = {'broski' : 'brother',
          'hundo p' : '100%',
          '1hunnit' : '100%',
          '1hunnid' : '100%',
+         'hunnid' : '100',
          'otw' : 'on the way',
          'foreal' : 'for real',
          'fo' : 'for',
@@ -125,7 +130,28 @@ slang_map = {'broski' : 'brother',
          'c' : 'see',
          'prolly' : 'probably',
          'fax' : 'facts',
-         'deff' : 'definitely'
+         'deff' : 'definitely',
+         'wyd' : 'what you doing',
+         'hbu' : 'how about you',
+         'lit' : 'amazing',
+         'boh' : 'blackout hammered',
+         'biz' : 'business',
+         'gunna' : 'going to',
+         'alr' : 'alright',
+         'wat' : 'what',
+         'grandpa' : 'grandfather',
+         'grandma' : 'grandmother',
+         '2day' : 'today',
+         '2moro' : 'tomorrow',
+         '2morrow' : 'tomorrow',
+         'tmrw' : 'tomorrow',
+         'pls' : 'please',
+         'ppl' : 'people',
+         'gimme' : 'give me',
+         'shoulda' : 'should',
+         'rip' : 'rest in peace',
+         'r.i.p' : 'rest in peace',
+         'nite' : 'night'
          }
 
 import re
@@ -166,5 +192,3 @@ with open('slanger_def.pickle', 'wb') as out:
 with open('slanger_def.pickle', 'rb') as fp:
     slanger = pickle.load(fp)
 """
-
-
